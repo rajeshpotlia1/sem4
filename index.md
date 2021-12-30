@@ -16,12 +16,12 @@ Here you can find all your course related materials.
 
 |               | Monday           |   Tuesday        | Wednesday            | Thursday         | Friday           |
 | --------------| -------------    |   ---------      | -------------        |    -------       |   -------        | 
-| 9:00 - 10:00  | BIO 202          | BIO 202          | BIO 202              | HSS 202          | HSS 202          |
-| 10:00 – 11:00 | CHM 202          | CHM 202          | CHM 202              | MTH 202          | MTH 202          |
+| 09:00 - 10:00 | BIO 202          | BIO 202          | BIO 202              | HSS 202          | HSS 202          |
+| 10:00 - 11:00 | CHM 202          | CHM 202          | CHM 202              | MTH 202          | MTH 202          |
 | 11:00 – 12:00 |  --------        |    ------        |  ---                 |  -------         |   -------        |
-| 12:00 - 1:00  | PHY 202          | PHY 202          | PHY 202              | IDC 20(1/3/6/7)  | IDC 20(1/3/6/7)  |
+| 12:00 - 01:00 | PHY 202          | PHY 202          | PHY 202              | IDC 20(1/3/6/7)  | IDC 20(1/3/6/7)  |
 |               |                  |                  |                      |                  |                  |
-| 2:00 - 5:00   | BIO/PHY/CHM 212  | BIO/PHY/CHM 212  | MTH 202 (3:00 – 4:00)| BIO/PHY/CHM 212  |   -------        |
+| 02:00 - 05:00 | BIO/PHY/CHM 212  | BIO/PHY/CHM 212  | MTH 202 (3:00 – 4:00)| BIO/PHY/CHM 212  |   -------        |
 
 
 
