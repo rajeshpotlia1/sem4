@@ -1,8 +1,7 @@
 ## Welcome to MS20 Help Deskline
 
-<!---
 | <MARQUEE style="color :green" SCROLLAMOUNT="10" ONMOUSEOVER="this.setAttribute('SCROLLAMOUNT', 0); this.stop()" ONMOUSEOUT="this.setAttribute('SCROLLAMOUNT', 5); this.start()" BEHAVIOR="scroll" DIRECTION="left" >Congratulations! You have successfully cleared level 3.</MARQUEE> | 
---->
+
 
 <strong style="color :red; "></strong> <br>
 
@@ -13,9 +12,6 @@ Here you can find all your course related materials.
 --->
 * [Referred Books](https://rajeshpotlia.github.io/Referred-Books/)
 * [Books Drive](https://drive.google.com/folderview?id=1g--vKXs8g3blDSU-M3UYjm5_L3I_NKv6)
-<!--- 
-* Can't  find idc books, [click here](https://drive.google.com/folderview?id=1fyig2Kw5QiYM-US_HnjR_f_8aKJS_lf-)
- --->
 # Time Table Sem 4
 
 |               | Monday           |   Tuesday        | Wednesday            | Thursday         | Friday           |
