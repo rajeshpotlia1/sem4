@@ -148,3 +148,8 @@ Feel free to fill up the form =
 * <a href = "mailto:deanacad@iisermohali.ac.in?subject = Feedback&body = Message"> Contact Dean Acad </a>
 * <a href = "mailto:deanstudents@iisermohali.ac.in?subject = Feedback&body = Message"> Contact Dean Students </a>
 
+
+<!-- Appy Chatbot widget, Paste the code in the <body> section -->
+<script id="appyWidgetInit" src="https://chatbot.appypie.com/widget/loadbuild.js?cid=61d5637934ffb75c3b3ba52f-61d5637934ffb75c3b3ba52f-BOTID1641374613206&name=mixBuild"></script>
+<!-- /. End Appy chatbot widget code -->
+
